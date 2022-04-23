@@ -22,4 +22,6 @@ Example: my team made 3 kills and was in 5p place, so the calculation will be:
 
 I still have to learn how to make this script work for all 20 teams using this same code. I will also learn in the future how to give a final result based on points, a list of 1st to 20th place.
 
+Is working on the following link: apexscrimcalculator.alexkaya.tech
+
 thanks for read! :D
