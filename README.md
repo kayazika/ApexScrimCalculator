@@ -5,15 +5,15 @@ This is my first code, I made a point calculator for Scrim in Apex Legends, extr
 
 It works as follows: the total points is a calculation made is basically your position point added to the number of kills, and a maximum of 10 kills will be considered.
 
-1st: 12 points
-2nd: 9 points
-3rd: 7 points
-4th: 5 points
-5th: 4 points
-6th and 7th: 3 points
-8th to 10th: 2 points
-11th to 15th: 1 point
-16th to 20th: 0 points
+1st: 12 points,
+2nd: 9 points,
+3rd: 7 points,
+4th: 5 points,
+5th: 4 points,
+6th and 7th: 3 points,
+8th to 10th: 2 points,
+11th to 15th: 1 point,
+16th to 20th: 0 points.
 
 The calculation would be: your points per position + number of kills (max 10 kills) = final result
 
