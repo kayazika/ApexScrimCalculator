@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="shortcut icon" href="/img/logounk.PNG">
+    <link rel="stylesheet" href="/style.css" />
+    <meta charset="UTF-8" />
+    <title>Apex Scrim Calculator BETA</title>
+  </head>
+  <body>
+    <header>
+      <div>
+        <img src="/img/apexlogo.png" alt="Apex Logo" />
+      </div>
+      <h1>Apex Legends Scrim Calculator <br>BETA</h1>
+    </header>
+    <main>
+      <section>
+        <form id="idForm" method="get">
+          <h2 class="pad" id="idTeam1">Team 1</h2>
+          <input class="pad" type="text" name="team" id="idTeam" placeholder="type a team name">
+          <input class="pad" type="text" name="position" id="idPosition" placeholder="type a team position">
+          <input class="pad" type="text" name="kill" id="idKill" placeholder="type a number of kills"><br>
+          <button class="pad" type="submit" name="submit" id="idSubmit" onclick="calculaPontos();return false">Calcule</button><br>
+          <span class="pad" id="idResultadoT"></span><br>
+          <span class="pad" id="idResultadoP"></span><br>
+          <span class="pad" id="idResultadoK"></span><br>
+          <span class="pad" id="idResultado"></span><br>
+
+        </form>
+      </section>
+    
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
