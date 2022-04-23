@@ -1,5 +1,5 @@
 # ApexScrimCalculator
-A simple Apex scrim calculator for torunaments
+A simple Apex scrim calculator for tournaments
 
 This is my first code, I made a point calculator for Scrim in Apex Legends, extremely simple, just for learning purposes.
 
